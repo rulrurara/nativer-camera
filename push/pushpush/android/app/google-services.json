@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759704848574",
+    "project_id": "tally-fade0",
+    "storage_bucket": "tally-fade0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759704848574:android:30aff1fc512dab547036ef",
+        "android_client_info": {
+          "package_name": "com.pushpush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjIgJ1qYxBCityX8HdiHBW24j5qT8D7ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
